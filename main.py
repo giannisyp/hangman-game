@@ -16,7 +16,7 @@ clear = lambda: os.system('cls')
 
 print(hangman_art.logo)
 #Testing code
-#print(f'Pssst, the solution is {chosen_word}.')
+
 
 #Create blanks
 display = []
